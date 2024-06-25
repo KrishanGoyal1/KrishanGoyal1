@@ -54,8 +54,8 @@
  <img align="right" width="350" src="https://i.ibb.co/Kb5yQ13/programmer.gif" alt="Coding gif"/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/KrishanGoyal1/KrishanGoyal1/issues)
+ 📧 &emsp; Reach me anytime: <a href="mailto:krishangoyal9350@gmail.com" >Krishangoyal9350@gmail.com</a><br/><br/>
+ 💬 &emsp; Ask me about anything <a href="https://github.com/KrishanGoyal1/KrishanGoyal1/issues" target="_blank">here</a>
 
 </p>
 
