@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/KrishanGoyal1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -49,16 +49,16 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+## About me
 <p>
  <img align="right" width="350" src="https://i.ibb.co/Kb5yQ13/programmer.gif" alt="Coding gif"/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: krishangoyal9350@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/krishangoyal1/krishangoyal1/issues)
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/KrishanGoyal1/KrishanGoyal1/issues)
 
 </p>
+
 
 <br/>
 <br/>
