@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/KrishanGoyal1" target="blank">
+ <a href="https://krishangoyal.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="krishan" />
  </a>
  <a href="https://www.linkedin.com/in/krishan9350/" target="_blank">
